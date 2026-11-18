@@ -1,0 +1,184 @@
+{
+  "benchmark": "Solana High-ATA Meme-Coin Trader Rent Recovery Benchmark",
+  "author": "GS",
+  "generated_at_utc": "2026-11-18T16:05:49Z",
+  "qualified_trader_wallets": 169,
+  "live_dex_discovered_wallets": 132,
+  "wallets_50_to_999_empty_atas": 101,
+  "wallets_1000_plus_empty_atas": 68,
+  "total_empty_atas": 317527,
+  "total_reclaimable_sol": 528.995106,
+  "total_reclaimable_usd": 38754.18,
+  "rent_and_rug_shield_totals": {
+    "claim_1_fee_pct": 0.0,
+    "claim_1_net_sol": 528.995106,
+    "claim_1_net_usd": 38754.18,
+    "repeat_fee_pct": 1.5,
+    "repeat_fee_sol": 7.934927,
+    "repeat_net_sol": 521.060179,
+    "repeat_net_usd": 38172.87
+  },
+  "competitor_comparison_totals": {
+    "sol_incinerator": {
+      "fee_pct": 2.0,
+      "total_fee_sol": 10.579902,
+      "total_fee_usd": 775.08,
+      "total_net_sol": 518.415204,
+      "total_net_usd": 37979.1,
+      "extra_sol_saved_claim1": 10.579902,
+      "extra_usd_saved_claim1": 775.08,
+      "extra_sol_saved_repeat_1_5pct": 2.644976,
+      "extra_usd_saved_repeat_1_5pct": 193.77
+    },
+    "claimfreesol": {
+      "fee_pct": 3.0,
+      "total_fee_sol": 15.869853,
+      "total_fee_usd": 1162.63,
+      "total_net_sol": 513.125252,
+      "total_net_usd": 37591.56,
+      "extra_sol_saved_claim1": 15.869853,
+      "extra_usd_saved_claim1": 1162.63,
+      "extra_sol_saved_repeat_1_5pct": 7.934927,
+      "extra_usd_saved_repeat_1_5pct": 581.31
+    },
+    "solcleaner": {
+      "fee_pct": 5.0,
+      "total_fee_sol": 26.449755,
+      "total_fee_usd": 1937.71,
+      "total_net_sol": 502.54535,
+      "total_net_usd": 36816.47,
+      "extra_sol_saved_claim1": 26.449755,
+      "extra_usd_saved_claim1": 1937.71,
+      "extra_sol_saved_repeat_1_5pct": 18.514829,
+      "extra_usd_saved_repeat_1_5pct": 1356.4
+    },
+    "refundyoursol": {
+      "fee_pct": 15.0,
+      "total_fee_sol": 79.349266,
+      "total_fee_usd": 5813.13,
+      "total_net_sol": 449.64584,
+      "total_net_usd": 32941.05,
+      "extra_sol_saved_claim1": 79.349266,
+      "extra_usd_saved_claim1": 5813.13,
+      "extra_sol_saved_repeat_1_5pct": 71.414339,
+      "extra_usd_saved_repeat_1_5pct": 5231.81
+    }
+  },
+  "links": {
+    "platform": "https://rentandrugshield.com/",
+    "zero_fee_proof": "https://rentandrugshield.com/proof/zero-fee-vs-incinerator",
+    "solana_blink": "https://dial.to/?action=solana-action:https://rentandrugshield.com/api/actions/reclaim-rent"
+  },
+  "top_10_sample_wallets": [
+    {
+      "rank": 1,
+      "wallet": "signuHhFnUZg5A3wbU9RVhgiwPEJwbYw3m69fyAnn9k",
+      "venue": "Jupiter_V6",
+      "empty_atas": 18413,
+      "reclaimable_sol": 27.929997,
+      "reclaimable_usd": 2046.15,
+      "shield_0pct_net_sol": 27.929997,
+      "saved_vs_sol_incinerator_2pct_sol": 0.5586,
+      "saved_vs_refundyoursol_15pct_sol": 4.1895
+    },
+    {
+      "rank": 2,
+      "wallet": "sssssCUP5wgSW3sxjtQNa7u88ytE4st2Z7goX5kKNwi",
+      "venue": "Pump.fun",
+      "empty_atas": 16194,
+      "reclaimable_sol": 24.515089,
+      "reclaimable_usd": 1795.98,
+      "shield_0pct_net_sol": 24.515089,
+      "saved_vs_sol_incinerator_2pct_sol": 0.490302,
+      "saved_vs_refundyoursol_15pct_sol": 3.677263
+    },
+    {
+      "rank": 3,
+      "wallet": "AXmnRBrNtYYyyo82cLBBhnWJ7o1iqNLZbuEVpDB3V666",
+      "venue": "PumpSwap",
+      "empty_atas": 11518,
+      "reclaimable_sol": 21.553771,
+      "reclaimable_usd": 1579.03,
+      "shield_0pct_net_sol": 21.553771,
+      "saved_vs_sol_incinerator_2pct_sol": 0.431075,
+      "saved_vs_refundyoursol_15pct_sol": 3.233066
+    },
+    {
+      "rank": 4,
+      "wallet": "Aet81p95mmuKjmMZPqDPmnupgU6RmQT3MmM4JojBEcst",
+      "venue": "PumpSwap",
+      "empty_atas": 10234,
+      "reclaimable_sol": 16.533486,
+      "reclaimable_usd": 1211.24,
+      "shield_0pct_net_sol": 16.533486,
+      "saved_vs_sol_incinerator_2pct_sol": 0.33067,
+      "saved_vs_refundyoursol_15pct_sol": 2.480023
+    },
+    {
+      "rank": 5,
+      "wallet": "GvyLS9WFxUBzoiVPKTJAR2bGLocnoEVWRYh4D8i5z7m1",
+      "venue": "Jupiter_V6",
+      "empty_atas": 9965,
+      "reclaimable_sol": 19.89375,
+      "reclaimable_usd": 1457.42,
+      "shield_0pct_net_sol": 19.89375,
+      "saved_vs_sol_incinerator_2pct_sol": 0.397875,
+      "saved_vs_refundyoursol_15pct_sol": 2.984063
+    },
+    {
+      "rank": 6,
+      "wallet": "b619EzHShebQRX7oouwUD5fUo72ai8GgcMLAHkcqfG2",
+      "venue": "Jupiter_V6",
+      "empty_atas": 9241,
+      "reclaimable_sol": 16.194066,
+      "reclaimable_usd": 1186.38,
+      "shield_0pct_net_sol": 16.194066,
+      "saved_vs_sol_incinerator_2pct_sol": 0.323881,
+      "saved_vs_refundyoursol_15pct_sol": 2.42911
+    },
+    {
+      "rank": 7,
+      "wallet": "AEdnzgqMSSR8pqQgSFuULQSHaJEodbmCzZ6HyuzYDygk",
+      "venue": "Pump.fun",
+      "empty_atas": 8934,
+      "reclaimable_sol": 13.527441,
+      "reclaimable_usd": 991.02,
+      "shield_0pct_net_sol": 13.527441,
+      "saved_vs_sol_incinerator_2pct_sol": 0.270549,
+      "saved_vs_refundyoursol_15pct_sol": 2.029116
+    },
+    {
+      "rank": 8,
+      "wallet": "5wi3iu37tJv72n8Z8Xz8bnz9wvkSS16mM4SThKAh4wkn",
+      "venue": "SeedVerified:dinner_top25_leads",
+      "empty_atas": 8203,
+      "reclaimable_sol": 12.382348,
+      "reclaimable_usd": 907.13,
+      "shield_0pct_net_sol": 12.382348,
+      "saved_vs_sol_incinerator_2pct_sol": 0.247647,
+      "saved_vs_refundyoursol_15pct_sol": 1.857352
+    },
+    {
+      "rank": 9,
+      "wallet": "F1aeaWYLWG5tn7NxGq7jCUWctTwFgtjuTCVm5WSvesMm",
+      "venue": "SeedVerified:dinner_top25_leads",
+      "empty_atas": 8126,
+      "reclaimable_sol": 13.388586,
+      "reclaimable_usd": 980.85,
+      "shield_0pct_net_sol": 13.388586,
+      "saved_vs_sol_incinerator_2pct_sol": 0.267772,
+      "saved_vs_refundyoursol_15pct_sol": 2.008288
+    },
+    {
+      "rank": 10,
+      "wallet": "D8cJRpXaCWVK8c3doDq7Ymoz2XE4WyhFhbgNytWwqptA",
+      "venue": "Jupiter_V6",
+      "empty_atas": 7540,
+      "reclaimable_sol": 14.093787,
+      "reclaimable_usd": 1032.51,
+      "shield_0pct_net_sol": 14.093787,
+      "saved_vs_sol_incinerator_2pct_sol": 0.281876,
+      "saved_vs_refundyoursol_15pct_sol": 2.114068
+    }
+  ]
+}
